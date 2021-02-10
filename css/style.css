@@ -1,0 +1,45 @@
+h2, h1, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {font-family: 'Barlow', sans-serif;}
+
+.header {
+    background-image: url(https://images.unsplash.com/photo-1499070022014-ccac3a6416f4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1428&q=80);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.box {
+    height: 200px;
+    background: #bbd4ff;
+    border-radius: 2em;
+    opacity: .9;
+}
+
+h2.box-content {color: #1e385a;
+font-weight: bolder;
+text-shadow: 3px 3px #ffffff}
+
+p.box-content {
+    color:#131919;
+}
+
+.col-4 h3 {color: #143633;
+font-weight: bolder;}
+
+div.caro {max-height: 10em}
+
+footer {color: white;}
+
+.bi-github {
+    height: 3em;
+    width: 3em;
+    color: #bbd4ff;
+}
+
+.bi-discord {color: #bbd4ff;
+height: 1.5em;
+width: 1.5em;
+margin-top: 10px}
